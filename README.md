@@ -1,2 +1,2 @@
-# fictional-octo-couscous
+# CoC war counter
 A simple CoC war star counter I plan to add to and make into a website soon
