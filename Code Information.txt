@@ -1,0 +1,3 @@
+Couldn't make it add a json file to store data so you are free to do so
+Index[0] is Stars and Index[1] is damage (Excluding U_and_A)
+You are free to edit any piece of the code or use it to make your own but to commit to main you need approval from other programmers
